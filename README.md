@@ -12,9 +12,9 @@ A dynamic form built using React and Material UI, designed to showcase modern fo
 ## Demo
 
 
-![Live Demo](src/assets/dem.png)
+![Live Demo](DynamicFormApplication/src/assets/dem.png)
 
-![Live Demo](src/assets/demo.png)
+![Live Demo](DynamicFormApplication/src/assets/demo.png)
 
 ## Prerequisites
 
